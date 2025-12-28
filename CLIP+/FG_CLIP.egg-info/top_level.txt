@@ -1,0 +1,4 @@
+data
+fgclip
+pretrained
+use_imgs
